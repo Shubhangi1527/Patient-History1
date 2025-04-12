@@ -7,5 +7,7 @@ This project involves the development of an interactive Power BI dashboard to vi
 Key Features of the Dashboard:
 
 • Interactive visualizations and slicers for filtering data by various dimensions (e.g., date, diagnosis, department).
+
 • Summary metrics to track overall performance and patient trends.
+
 • Charts and graphs for comparing different patient segments.
